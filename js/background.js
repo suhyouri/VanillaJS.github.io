@@ -10,7 +10,7 @@ const wrapper = document.querySelector("#wrapper div");
 // const bgImage = document.getElementById("wrapper").createElement("img");
 const bgImage = document.createElement("img");
 
-bgImage.src = `./img/${chosenImage}`
+bgImage.src = `https://suhyouri.github.io/VanillaJS.github.io/img/${chosenImage}`;
 
 // document.body.appendChild(bgImage);
 
